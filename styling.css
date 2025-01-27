@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-position: left top;
+    background-image: url('BackgroundImage.jpg');
+    background-repeat: no-repeat;
+    /* cover */
+}
+
+#Motivation{
+    height: 5rem;
+    max-width: 75vw;
+    color: #c8b20a;
+    font-size: 52px;
+    padding: 2rem;
+    text-align: center;
+    /* padding-left: 10rem; */
+}
+
+#container{
+    height: 100vh;
+    width: 100vw;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+#clock{
+    margin: 4rem;
+    padding: 2.5rem;
+    display: flex;
+    width: fit-content;
+    justify-content: center;
+    align-items: center;
+    font-size: 6rem;
+    color: #c8b20a;
+    border-radius: 1.5rem;
+    background-color: rgba(0, 0, 0, 0.3);
+}
