@@ -8,9 +8,6 @@ Minimalistic and responsive design for seamless display on various devices.
 Implemented using HTML, CSS, and JavaScript.
 This project demonstrates the use of the JavaScript Date object for real-time applications and basic web development skills.
 
-Preview:
-[Add a link to a live demo if you have hosted it somewhere, e.g., GitHub Pages.]
-
 How to Run:
 
 Clone the repository.
